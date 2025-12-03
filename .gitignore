@@ -1,0 +1,35 @@
+# Ignore NumPy binary files
+*.npy
+
+# Ignore HDF5 model weights and datasets
+*.h5
+
+# Ignore PyTorch model checkpoints
+*.pth
+
+# Ignore common machine learning artifacts
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and debug files
+logs/
+*.log
+debug/
+
+# Ignore dataset and cache files
+__pycache__/
+*.cache
+*.dat
+*.csv
+*.json
+.DS_Store
+
+# Ignore virtual environment files
+venv/
+.env/
+*.pyc
