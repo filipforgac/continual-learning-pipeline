@@ -4,7 +4,7 @@
 * quadprog
 * pandas
 * h5py
-* matplotlib (optional for `plot.py`)
+* matplotlib (optional for `visualize.py`)
 
 # Data
 Must be placed in data folder inside project root.
